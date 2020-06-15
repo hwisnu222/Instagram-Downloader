@@ -15,4 +15,4 @@ Buka browser, tulisakan pada address bar
 
 ## Screenshot
 
-![Instagram Downloader Preview]()
+![Instagram Downloader Preview](https://github.com/hwisnu222/Instagram-Downloader/blob/master/screenshot.PNG)
